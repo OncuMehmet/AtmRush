@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7624019a-c4f1-44d8-87d5-f7bd186812f5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Controllers/CollectableCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/ValueObject/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/ValueObject/StackData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enums/Obstacles.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BxBcaSYRI0ZzjUoEQsCqxp7zU6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.C#&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\LevelUP-Projects\ATM-RushProject -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\LevelUP-Projects\ATM-RushProject" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7624019a-c4f1-44d8-87d5-f7bd186812f5" name="Changes" comment="" />
+      <created>1657837935619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657837935619</updated>
+      <workItem from="1657837938918" duration="9550000" />
+      <workItem from="1657896868818" duration="1888000" />
+      <workItem from="1658006118675" duration="3700000" />
+      <workItem from="1658090134085" duration="688000" />
+      <workItem from="1658095171488" duration="33000" />
+      <workItem from="1658095254905" duration="146000" />
+      <workItem from="1658095532945" duration="99000" />
+      <workItem from="1658095729021" duration="92000" />
+      <workItem from="1658095844910" duration="192000" />
+      <workItem from="1658096056920" duration="608000" />
+      <workItem from="1658096708682" duration="181000" />
+      <workItem from="1658096925583" duration="1290000" />
+      <workItem from="1658098265098" duration="209000" />
+      <workItem from="1658100341878" duration="14000" />
+      <workItem from="1658100910853" duration="1000" />
+      <workItem from="1658100945316" duration="41000" />
+      <workItem from="1658102250564" duration="319000" />
+      <workItem from="1658103295690" duration="347000" />
+      <workItem from="1658103732073" duration="1382000" />
+      <workItem from="1658105525067" duration="702000" />
+      <workItem from="1658116063119" duration="1449000" />
+      <workItem from="1658134057948" duration="2061000" />
+      <workItem from="1658143007518" duration="626000" />
+      <workItem from="1658151746664" duration="1532000" />
+      <workItem from="1658155856928" duration="5034000" />
+      <workItem from="1658162121131" duration="4234000" />
+      <workItem from="1658229222653" duration="10457000" />
+      <workItem from="1658276269342" duration="3013000" />
+      <workItem from="1658324175575" duration="6873000" />
+      <workItem from="1658334143849" duration="5975000" />
+<<<<<<< HEAD
+      <workItem from="1658340813620" duration="964000" />
+=======
+      <workItem from="1658340813620" duration="1635000" />
+      <workItem from="1658376636853" duration="4671000" />
+      <workItem from="1658382388887" duration="22000" />
+>>>>>>> main
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+</project>
